@@ -1,4 +1,4 @@
-# Veridia Desktop — v2.1.2
+# Veridia Desktop — v2.2.0
 
 Sistema de gestión de acceso biométrico para Hikvision DS-K1T321MFWX.
 
@@ -20,7 +20,7 @@ Sistema de gestión de acceso biométrico para Hikvision DS-K1T321MFWX.
 2. Ejecutá el instalador y seguí el asistente
 3. Abrí la app, entrá a **Modo Proveedor** y configurá la conexión a la base de datos
 
-## Novedades — v2.1.2 (2026-06-24)
+## Novedades — v2.2.0 (2026-06-25)
 
 - Fix: cierre correcto de conexiones a base de datos al salir (prevenía EMAXCONNSESSION en Supabase)
 - Fix: cobros ahora funcionan cuando hay una caja abierta (status 'draft' vs 'open')
